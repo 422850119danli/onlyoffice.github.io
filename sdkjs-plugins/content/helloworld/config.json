@@ -32,6 +32,9 @@
             "buttons"         : [
                 {
                     "text": "Ok",
+                    "textLocale":{
+                        "zh": "确认"
+                    },
                     "primary": true
                 }
             ],
